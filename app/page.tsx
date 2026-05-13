@@ -89,7 +89,7 @@ export default function ResumePage() {
           </button>
           
           {/* Clerk 用户头像组件 */}
-          <UserButton afterSignOutUrl="/"/>
+          <UserButton/>
         </div>
       </nav>
 
